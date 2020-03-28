@@ -13,12 +13,12 @@
         td {
             border: 2px solid #dddddd;
             text-align: left;
-            padding: 7px;
+            padding: 6px;
         }
         th {
             border: 2px solid #000000;
             text-align: left;
-            padding: 7px;
+            padding: 8px;
         }
 
         tr:nth-child(even) {
