@@ -11,12 +11,12 @@
         }
 
         td {
-            border: 1px solid #dddddd;
+            border: 2px solid #dddddd;
             text-align: left;
             padding: 7px;
         }
         th {
-            border: 1px solid #000000;
+            border: 2px solid #000000;
             text-align: left;
             padding: 7px;
         }
