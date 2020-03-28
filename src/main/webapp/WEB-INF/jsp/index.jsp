@@ -37,13 +37,13 @@
         <th>Price(in dollar)</th>
         <th>Color</th>
     </tr>
-    <c:forEach var = "listitem" items = "${Inventorylist}">
+    <c:forEach var = "listStuff" items = "${Inventorylist}">
         <tr>
 
 
-            <td>${listitem.description}</td>
-            <td>${listitem.price}</td>
-            <td>${listitem.color}</td>
+            <td>${listStuff.description}</td>
+            <td>${listStuff.price}</td>
+            <td>${listStuff.color}</td>
             
 
         </tr>
