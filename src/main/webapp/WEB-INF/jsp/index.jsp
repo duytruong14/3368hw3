@@ -4,6 +4,9 @@
 <head>
     <title>SpringBoot hw3</title>
     <style>
+        h1{
+            font-family: "Arial", sans-serif;
+        }
         table {
             font-family: "Times New Roman", sans-serif;
             border-collapse: collapse;
@@ -16,19 +19,21 @@
             padding: 6px;
         }
         th {
-            border: 2px solid #000000;
-            text-align: left;
+            border: 3px solid #000000;
+            text-align: center;
             padding: 8px;
+            
         }
 
         tr:nth-child(even) {
             background-color: #ffe6f2;
+            border: 3px solid #dddddd;
         }
     </style>
 </head>
 <body>
 
-<h2>Inventory Table</h2>
+<h1>Inventory Table</h1>
 
 <table>
     <tr>
