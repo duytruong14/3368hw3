@@ -22,7 +22,7 @@
             border: 3px solid #000000;
             text-align: center;
             padding: 8px;
-            
+
         }
 
         tr:nth-child(even) {

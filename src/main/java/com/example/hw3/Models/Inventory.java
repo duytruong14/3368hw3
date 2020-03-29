@@ -51,5 +51,5 @@ public Inventory(){}
     public void setColor(String color) {
         this.color = color;
     }
-//final check 1
+//final check 2
 }
