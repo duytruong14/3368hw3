@@ -45,6 +45,7 @@
             <td>${listStuff.price}</td>
             <td>${listStuff.color}</td>
             
+            
 
         </tr>
     </c:forEach>
