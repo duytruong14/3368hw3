@@ -33,7 +33,8 @@
 </head>
 <body>
 
-<h1>Inventory Table</h1>
+<h1 align="center">Inventory Table</h1>
+<h2 align="center">Duy's Sporting Goods</h2>
 
 <table>
     <tr>
